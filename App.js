@@ -19,5 +19,5 @@ export default function App() {
 //     backgroundColor: '#fff',
 //     alignItems: 'center',
 //     justifyContent: 'center',
-//   },
+//   },,
 // });
